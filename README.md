@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-HOLA
+⚡ Hola, un placer tenerte aqui. Revisa mi portafolios en el repositorio "proyectos" ⚡
+⚡ Hi, so good to have u here. Chech my portfolio in "proyectos" repository ⚡
