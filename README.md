@@ -5,7 +5,7 @@ I'm a student from Chile who is passionate about Data Science and IOS developmen
 
 ________________________
 ### Data area
-In general, I've been working with data as a professional. I've served as a Data Consultant, giving me experience in both Data Engineering and Analysis. However, my thirst for growth and advancement propels me forward. This is why I've undertaken courses at DataCamp, where I successfully completed a [Data Science track](https://www.datacamp.com/completed/statement-of-accomplishment/track/de76dd2fdc35594a23786029f235f384900b8b8f) using Python. I've been actively engaged in various Python projects ever since. Additionally, I have extensive experience in Cloud computing, specifically working with Snowflake. You can verify my certifications on my Linkedin [profile](https://www.linkedin.com/in/luisinostrozaf/).
+In general, I've been working with data as a professional. I've served as a Data Consultant, giving me experience in both Data Engineering and Analysis. However, my thirst for growth and advancement propels me forward. This is why I've undertaken courses at DataCamp, where I successfully completed a [Data Science track](https://www.datacamp.com/completed/statement-of-accomplishment/track/de76dd2fdc35594a23786029f235f384900b8b8f) using Python. I've been actively engaged in various Python projects ever since. Additionally, I have experience in Cloud computing, specifically working with Snowflake. You can verify my certifications on my Linkedin [profile](https://www.linkedin.com/in/luisinostrozaf/).
 
 ________________________
 ### IOS Development
