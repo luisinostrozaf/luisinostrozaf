@@ -4,7 +4,7 @@ ________________________
 I'm a student from Chile who is passionate about Data Science and IOS development. This repo holds some of my work that showcases how I go around data analysis and coding in general. If you wish to seek more about me, feel free to visit my [website](luisinostrozaf.github.io)(under construction).
 
 ________________________
-### Data Science
+### Data area
 In general, ive been working with data as a professional. Ive been a Data Consultant, so i have experience as Data Engineer and Analyst. But i want to go to the next level, thats why i've been doing courses at data camp, where i completed a [track](https://www.datacamp.com/completed/statement-of-accomplishment/track/de76dd2fdc35594a23786029f235f384900b8b8f) of data science using python, and been working in some projects with python since then. Also i have experience in Cloud working with Snowflake, you can see my certifications on my Linkedin [profile](https://www.linkedin.com/in/luisinostrozaf/).
 
 ________________________
