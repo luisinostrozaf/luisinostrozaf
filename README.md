@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ________________________
-I'm a student from Chile who is passionate about Data Science and IOS development. This repo holds some of my work that showcases how I go around data analysis and coding in general. If you wish to seek more about me, feel free to visit my [website](https://luisinostrozaf.github.io)(under construction).
+I'm a student from Chile who is passionate about Data Science and iOS development. This repo holds some of my work that showcases how I go around data analysis and coding in general. If you wish to seek more about me, feel free to visit my [website](https://luisinostrozaf.github.io)(under construction).
 
 ________________________
 ### Data area
